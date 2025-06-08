@@ -5,11 +5,6 @@
   <img src="./public/right.jpg" width="48%"/>
 </p>
 
-<p align="center">
-  [![Watch the video](./public/left.jpg)](https://www.w3schools.com/html/mov_bbb.mp4)
-  <br>
-  <strong>Click the image to watch the video</strong>
-</p>
-
+[![Watch the video](./public/left.jpg)](https://www.w3schools.com/html/mov_bbb.mp4)
 
 
