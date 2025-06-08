@@ -1,11 +1,11 @@
-<!-- ## Rough work
+## Rough work
 
 <div align="center">
   <img src="./public/left.jpg" alt="img" width="900"/>
 </div>
- -->
 
-# AI Interviewer
+
+<!-- # AI Interviewer
 
 **AI Interviewer** is a full-stack, open-source platform that uses AI to conduct, score, and analyze technical interviews. It features an interactive web interface, real-time feedback, and support for multiple question types (coding, MCQ, system design, etc). Both the frontend and backend are containerized for easy deployment.
 
@@ -208,5 +208,5 @@ NEXT_PUBLIC_WS_URL_V2=ws://localhost:8000/api/v2/websocket/ws
 NEXT_PUBLIC_WS_URL_V3=ws://localhost:8000/api/v3/websocket/ws
 NEXT_PUBLIC_CLIENT_LOG_LEVEL=info
 BACKEND_URL=http://localhost:8000
-```
+``` -->
 
