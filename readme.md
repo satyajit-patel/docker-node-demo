@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  [![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwBPVqJfJioAetpJKegz2W3Yngm3xFGWdVw&s)](https://www.w3schools.com/html/mov_bbb.mp4)
+  [![Watch the video](./public/left.jpg)](https://www.w3schools.com/html/mov_bbb.mp4)
   <br>
   <strong>Click the image to watch the video</strong>
 </p>
