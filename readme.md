@@ -6,9 +6,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.w3schools.com/html/mov_bbb.mp4" target="_blank">
-    <img src="./public/thumbnail.jpg" alt="Watch the video" width="600" />
-  </a>
+  [![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnwBPVqJfJioAetpJKegz2W3Yngm3xFGWdVw&s)](https://www.w3schools.com/html/mov_bbb.mp4)
   <p><strong>Click the image to watch the video</strong></p>
 </div>
 
