@@ -1,4 +1,4 @@
 ## Rough work
 
-[img](./public/activity-dia-1.png)
+![img](./public/activity-dia-1.png)
 
